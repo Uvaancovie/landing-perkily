@@ -10,7 +10,7 @@ import Lottie from 'lottie-react'
 import loyaltyProgramAnimation from '../app/assets/lottie/loyaltyProgramAnimation.json'
 import patientEngagementAnimation from '../app/assets/lottie/patientEngagementAnimation.json'
 import analyticsDashboardAnimation from '../app/assets/lottie/analyticsDashboardAnimation.json'
-import integrationCapabilitiesAnimation from '../app/assets/lottie/integrationCapabilitiesAnimation.json'
+
 import playAnimation from '../app/assets/lottie/playAnimation.json' // New Play animation
 
 // Import the Card components

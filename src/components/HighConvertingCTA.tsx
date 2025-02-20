@@ -30,8 +30,12 @@ export default function HighConvertingCTA() {
       // On success, set submitted to true
       setSubmitted(true)
       setEmail("")
-    } catch (err: any) {
-      setErrorMessage(err.message || "Something went wrong")
+    } catch (err: unknown) {
+      if (err instanceof Error) {
+        setErrorMessage(err.message || "Something went wrong")
+      } else {
+        setErrorMessage("Something went wrong")
+      }
     }
   }
 
