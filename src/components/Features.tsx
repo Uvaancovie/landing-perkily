@@ -51,17 +51,7 @@ const Features = () => {
         'Trend analysis'
       ]
     },
-    {
-      title: 'Integration Capabilities',
-      description: 'Seamlessly integrate with your existing practice management and EMR systems.',
-      animation: integrationCapabilitiesAnimation,
-      details: [
-        'EMR integration',
-        'Practice management software',
-        'Payment systems',
-        'Communication platforms'
-      ]
-    }
+    
   ]
 
   return (

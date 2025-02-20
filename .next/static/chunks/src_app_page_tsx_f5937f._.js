@@ -7,13 +7,12 @@
   "chunks": [
     "static/chunks/src_app_assets_lottie_hero-animation_json_d96b52._.js",
     "static/chunks/src_app_assets_lottie_loyaltyProgramAnimation_json_7a36d7._.js",
-    "static/chunks/src_app_assets_lottie_integrationCapabilitiesAnimation_json_918838._.js",
     "static/chunks/src_app_assets_lottie_mission_json_c031f4._.js",
     "static/chunks/src_app_assets_lottie_1d2be9._.js",
     "static/chunks/src_app_page_tsx_8b213b._.js",
     "static/chunks/src_components_c965a2._.js",
     "static/chunks/src_lib_utils_ts_70d15c._.js",
-    "static/chunks/node_modules_1a8cd3._.js"
+    "static/chunks/node_modules_2505d4._.js"
   ],
   "source": "dynamic"
 });

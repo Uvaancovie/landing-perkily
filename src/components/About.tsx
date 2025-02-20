@@ -77,8 +77,9 @@ const About = () => {
       <div className="container mx-auto px-6 py-20">
         <Tabs defaultValue="team" className="w-full">
           <TabsList className="grid w-full grid-cols-3 mb-8">
+          <TabsTrigger value="mission">Our Mission</TabsTrigger>
             <TabsTrigger value="team">Our Team</TabsTrigger>
-            <TabsTrigger value="mission">Our Mission</TabsTrigger>
+            
             <TabsTrigger value="values">Our Values</TabsTrigger>
           </TabsList>
 
